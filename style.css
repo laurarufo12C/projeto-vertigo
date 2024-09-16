@@ -8,4 +8,8 @@
 header {
     background-image: url(./imagens/bg-mobile.png);
     background-size: cover;
+    height: 8.735rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

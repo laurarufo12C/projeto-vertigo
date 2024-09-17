@@ -30,3 +30,8 @@ main {
     font-size: 1.5625rem;
 }
 
+.descricao p {
+    font-size: 0.8125rem;
+    color: var(--gray-600);
+}
+
